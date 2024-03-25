@@ -1,0 +1,7 @@
+input_dir: "./data"
+name: "PDF Interaction ChatBot"
+modelEmbeddings: "sentence-transformers/all-MiniLM-L6-v2"
+autoTokenizer: "meta-llama/Llama-2-7b-chat-hf"
+autoModelForCausalLM: "meta-llama/Llama-2-7b-chat-hf"
+PINECONE_API_KEY: "<your pinecone api key>"
+PINECONE_API_ENV: "<your pinecone api env>"
