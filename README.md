@@ -1,6 +1,6 @@
 
 
-The steps are clearly outlined:
+Steps involved:
 1. **User uploads a PDF.**
 2. **Text is extracted from the PDF.**
 3. **Embeddings are generated using SentenceTransformers.**
