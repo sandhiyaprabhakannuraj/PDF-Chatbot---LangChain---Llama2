@@ -10,3 +10,4 @@ Steps involved:
 7. **The query and retrieved text are passed to Llama2 via LangChain.**
 8. **Llama2 generates a response.**
 9. **The response is shown to the user.**
+![image](https://github.com/user-attachments/assets/07ae9520-9802-4cd8-a2b9-1f970ae15f80)
